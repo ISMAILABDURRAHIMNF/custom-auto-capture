@@ -1,6 +1,6 @@
 # Custom Auto Capture
 
-Hi, this repo is just tiny project, custom auto screen capture using Chrome web driver. Makesure Chrome is installed on your computer, or u could change web driver.
+Hi, this repo is just tiny project, custom auto screen capture using selenium with Chrome web driver. Makesure Chrome is installed on your computer, or u could change web driver.
 
 ## 🔧 How to use
 
