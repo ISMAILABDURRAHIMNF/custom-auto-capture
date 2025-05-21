@@ -16,6 +16,15 @@ Install all required modul using `pip` to file `requirements.txt`
   pip install -r requirements.txt
 ```
 
+Create `websites.txt` file, list all the websites you want to capture images from.
+
+```bash
+  web1.com
+  web2.com
+  web3.com
+  ...
+```
+
 Run the program
 
 ```bash
